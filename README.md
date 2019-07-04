@@ -8,7 +8,7 @@
       }
 项目运行：{
         1.git clone 项目
-        2.cd vue_node_mongodb_blog
+        2.cd blog
         3.npm install 
         4.cd server 
         5.npm install 
